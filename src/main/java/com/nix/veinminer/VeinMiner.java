@@ -4,6 +4,6 @@ import net.minecraftforge.fml.common.Mod;
 
 import static com.nix.veinminer.Utils.*;
 
-@Mod(mod_id)
+@Mod(MOD_ID)
 public class VeinMiner {
 }
