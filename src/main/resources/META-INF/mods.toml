@@ -5,7 +5,7 @@ license="GNU GPLv3"
 modId="veinminer"
 version="${file.jarVersion}"
 displayName="Vein Miner"
-authors="Nix" 
+authors="Nix"
 description='''
 This is a mod includes vein generators and miners.
 '''

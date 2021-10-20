@@ -1,0 +1,5 @@
+{
+  "loader": "forge:obj",
+  "model": "veinminer:models/block/vein_miner.obj",
+  "flip-v": true
+}

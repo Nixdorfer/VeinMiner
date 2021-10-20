@@ -1,0 +1,4 @@
+newmtl m_0
+map_Kd veinminer:block/vein_miner
+newmtl Material
+map_Kd veinminer:block/vein_miner

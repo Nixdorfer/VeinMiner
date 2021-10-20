@@ -1,7 +1,7 @@
 package com.nix.veinminer;
 
 public class Utils {
-    static final String MOD_NAME = "veinminer";
-    static final String MOD_ID = "Vein Miner";
-    static final String VERSION = "0.9.0";
+    public static final String MOD_ID = "veinminer";
+    public static final String MOD_NAME = "Vein Miner";
+    public static final String VERSION = "Beta 1.0.0";
 }

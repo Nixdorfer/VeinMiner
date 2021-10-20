@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "veinminer:block/vein_miner" }
+  }
+}
